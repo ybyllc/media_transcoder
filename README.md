@@ -1,3 +1,6 @@
+代码来自https://github.com/chuanzz/media_transcoder
+打算记录我改的第一个程序
+对ffmpeg视频解码软件有兴趣的可以看看https://blog.csdn.net/leixiaohua1020/article/details/15811977
 # media_transcoder
 将一个目录的视频图片文件进行转码。  
 原本只是个人使用的程序，贪快代码写得并不规范，轻喷。  
